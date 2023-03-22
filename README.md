@@ -1,5 +1,5 @@
 # DF 9 Assignment 7: Kafka Streaming Processing
-Ingesting data from dummyjson.com/users and dummyjson.com/products into local directory as a flat files (CSV).
+Ingesting data from dummyjson.com/users and dummyjson.com/products into local directory as a flat files (.CSV).
 ## Result
 1. Product topic consumer result
 
