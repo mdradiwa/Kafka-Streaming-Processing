@@ -1,4 +1,4 @@
-# Kafka-Streaming-Processing
+# DF 9 Assignment 7: Kafka Streaming Processing
 ## Result
 1. Product topic consumer result
 
