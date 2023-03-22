@@ -9,4 +9,4 @@ Ingesting data from dummyjson.com/users and dummyjson.com/products into local di
 
 ![TOPIC USER CONSUMER RESULT](https://user-images.githubusercontent.com/124119569/226974627-ebe529b2-0575-45d3-a687-84bed122720e.png)
 
-3. I also attach the python script file and CSV file in this repo main branch. Check it out!
+3. I also attach the **python script file** and **CSV file** in this repo main branch. Check it out!
